@@ -1,0 +1,17 @@
+tr{
+    height: 60px;
+}
+table {
+    border-collapse: collapse;
+}
+td {
+    font-size: 30px;
+}
+th {
+    font-size: 30px;
+    text-align: left;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}

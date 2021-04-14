@@ -1,0 +1,41 @@
+header {
+    border: 1px solid black;
+    height: 50px;
+    width: auto;
+    text-align: center;
+}
+.Second-Main
+{
+    display: block;
+}
+section{
+ display: flex;
+}
+.Main-Content {
+    height: 752px;
+    width: 80%;
+    border: 1px solid black;
+}
+.Adsense {
+    height: 300px;
+    width: 500px;
+    border: 1px solid black;
+}
+.Widget {
+    height: 450px;
+    width: 500px;
+    border: 1px solid black;
+}
+footer {
+    border: 1px solid black;
+    height: 50px;
+    width: auto;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    padding-top: 30%;
+}

@@ -1,0 +1,17 @@
+a {
+    text-decoration: none;
+}
+body {
+    background-color: aqua;
+}
+form {
+    position: absolute;
+    right: 40%;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+td {
+    font-weight: 700;
+}
